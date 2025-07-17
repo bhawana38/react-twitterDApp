@@ -20,6 +20,6 @@ Features
 
 ![add tweet](images/add_tweet_confirm.png)
 ![app home](images/twitter_dapp_home.png)
-![remix ide](images/remix_ide_1.png)
-![remix ide](images/remix_ide_2.png)
+![remix ide](images/remixIDE1.png)
+![remix ide](images/remixIDE2.png)
 
